@@ -2,6 +2,7 @@ import java.util.Scanner;
 //how you import Scanner
 
 public class Main {
+    // Ryan ignore this
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         //this is for inputing things. it is not like c++! Don't think like that!
